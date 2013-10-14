@@ -1,0 +1,49 @@
+元培
+1 周舒翔 FF
+2 张伯伦 P
+3 谌灼杰 SS
+4 陈曦 2B
+5 任俞铭 LF
+6 金诸峰 3B
+7 王奕翰 CF
+8 熊宇薇 1B
+9 李竞妍 C
+10 陆丹丹 RF
+
+P 周振兴
+
+1 k
+2 1b.lfa
+3 e2b.pp
+4 e2b.pg(2)
+5 g.ssg
+6 e2b.ssg(1)
+7 1b.3bg
+8 e.2ba(1)
+9 k
+
+10 k
+1 1b.pg
+2 e.pg
+3 g.pg
+
+4 g.pg
+5 1b.ssg
+6 1b.2bg
+7 e.ssg(1)
+8 e2b.2ba(1)
+9 k
+10 g.2bg
+
+1 1b.3bg
+2 e.lfa
+3 fo.ssa
+4 甩棒
+5 fo.ssa
+
+6 g.ssg
+7 e2b.ssa
+8 fo.2ba
+9 g.pg
+
+

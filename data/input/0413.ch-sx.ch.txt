@@ -1,0 +1,41 @@
+城环
+1  周家祥 1B
+2  甘雨 RF
+3  陈彬辉 3B
+4  余耀东 CF【四下SS】
+5  朱丹 2B
+6  江红 P 【二下下场，四下上场FF】
+7  王婷 C
+8  杨明 FF【二下P，三下SS，四下CF】
+9  齐澄宇 SS【三下下场，换上李羿P】
+10 陈易辰 LF
+91 李羿
+
+P 赵靖康
+1 fo.lfa
+2 e.ssg
+3 bb
+4 fo.lfcfa
+5 bb
+6 bb(1)
+7 甩棒
+
+8 1b+e.ssg
+9 1b.ssg
+10 fc.pg
+1 1b(1).2bg
+2 fc.3bg
+3 1b.cg
+4 g.pg
+
+5 bb
+6 g
+7 k
+8 bb
+9 甩棒
+
+10 k
+1 g.ssg
+2 bb
+3 e.2bg
+4 fc.pg 

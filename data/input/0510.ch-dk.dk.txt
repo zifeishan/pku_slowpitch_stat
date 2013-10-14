@@ -1,0 +1,46 @@
+地空
+1 王博 P
+2 朱翀 1B
+3 肖元正 LF
+4 王梦珏 CF
+5 杨帅 RF
+6 原世豪 3B
+7 李文山 SS
+8 张颖慧 （F） FF
+9 廖曼琪 （F） 2B
+10 李多 （F） C
+11 吴飞龙 EP
+
+P 李羿
+
+1 FO.lfa
+2 G.3bt
+3 1B.pp!
+4 E.3bt
+5 G.3bt
+
+6 BB
+7 Fc.3bt
+8 G.3bg
+9 G.3bt
+
+10 BB
+11 E2B.pt
+1 K
+2 G.pg
+
+3 1B+E.ffa
+4 FO.pa
+5 E.3bt
+6 BB
+7 Fc(1).3bg
+8 BB
+9 K
+
+10 BB
+11 Fc.ssg
+1 E.ssa
+2 BB
+3 G(1).pt
+4 1B(2).2bp!
+5 K

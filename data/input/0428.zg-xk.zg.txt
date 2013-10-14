@@ -1,0 +1,26 @@
+政管
+1 尤宇川 SS
+2 李文琪 FF 换到P
+3 董子仲 EP
+4 王墨儒 LF
+5 臧天宇 1B
+6 徐伟峰 3B
+7 姚子玄 CF
+8 周云龙 2B 换到FF
+9 王鸣曦·小白 P 换到RF
+10 郭小芬 RF 换到2B
+11 皮晚笛 C
+
+P 单子非
+
+1 K       1B+E    FO
+2 BB      BB 
+3 1B      Fc(1)
+4 Fc      Fc  
+5 K           1B
+6     1B      DP
+7     BB      G
+8     DP          BB
+9     G           K
+10        1B      1B
+11        Fc      K

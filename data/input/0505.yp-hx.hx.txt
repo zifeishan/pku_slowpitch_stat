@@ -1,0 +1,43 @@
+化学
+1 王波 2B
+2 段文洁 LF
+3 张鑫雨 SS
+4 周振兴 P
+5 陈添锴 1B
+6 张旻烨 CF
+7 罗美钰 FF
+8 王瑞琦 RF
+9 雷若星 C
+10 杨昊 3B
+
+P 张伯伦
+
+1 e3b.ssg
+2 1b.3bg(1)
+3 dp.lfa
+4 g.pg
+
+5 fo.ssa
+6 bb
+7 bb
+8 fc.pg
+9 g.1bg
+
+10 fo.2ba
+1 g.ssg
+2 1b.pg
+3 k
+
+4 e.pg
+5 1b.pg
+6 bb
+7 fc.pg
+8 fc.pg(1)
+9 k
+
+10 1b.pg
+1 fc.2bg
+2 fo.pa
+3 e.pg
+4 e.pg(1)
+5 fo.lfa

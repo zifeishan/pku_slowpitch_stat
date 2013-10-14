@@ -1,0 +1,61 @@
+城环
+1 甘雨   FF
+2 周家祥 SS
+3 李羿   1B
+4 申子杭 CF
+5 陈彬辉 RF
+6 齐澄宇 C
+7 江红   P
+8 小贯久美 3B
+9 范敬怡 2B
+10 陈易辰 LF
+
+P 张伯伦
+
+1 e.ssg
+2 k
+3 k
+4 bb
+5 bb
+6 k
+
+7 g.pg
+8 1b.ffa
+9 fo.3ba
+10 bb
+1 fc.3bg
+
+2 1b.lfa
+3 g.1bg
+4 2b.rfa(1)
+5 e.2bg
+6 bb
+7 bb(1)
+8 e.lfa(2)
+9 fo.lfa
+10 e.ssg(1)
+1 k
+
+2 2b.lfa!
+3 e.ssg
+4 fo.lfa
+5 bb
+6 fc.ssg
+7 k
+
+8 e.lfa
+9 e.3bg
+10 e.3bg
+1 fc.3bg
+2 1b.ffa(2)
+3 fo.2ba
+
+4 e.ssg
+5 e.ssg
+6 k
+7 e.ssg
+8 e.pg(2)
+9 e.pg
+10 e.3ba(2)
+1 fc.pg
+2 fc.2ba

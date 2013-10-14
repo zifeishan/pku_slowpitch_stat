@@ -1,0 +1,52 @@
+数院
+1  赵靖康 P
+2  李超 LF
+3  王竟先 2B
+4  吴朔男 SS
+5  胡一鸣 3B
+6  潘略 CF
+7  张逸昊 FF
+8  吕天萌 1B
+9  刘馥晨 RF
+10 李依格 C 
+
+P 朱天顺
+
+1 1B.ssg
+2 bb
+3 1b.ffp(1)
+4 2b.cfa(1)
+5 1b.lfa(2)
+6 1b.pg
+7 1b.lfa
+8 1b+e(2).ffg
+9 e.3bg(1)
+10 g.pg(1)
+1 1b.ssg
+2 fo.lfa
+3 k
+
+4 2b.lfg
+5 k.lffk
+6 2b.rfa(1)
+7 2b.lfg
+8 e.lfa(1)
+9 e+e.pp(1)
+10 g.pg(1)
+1 fo.pa
+
+2 fo.lfa
+3 2b.rfp
+4 2b.lfa!(1)
+5 2b.lfa(1)
+6 fo.ffa
+7 2b.3bg(1)
+8 1b.3bd
+9 fo.ssp
+
+10 g.ssg
+1 e.3bg
+2 fo.cfa
+3 hr.rfahr!(2)
+4 e.ssg
+5 fc.ssg

@@ -1,0 +1,44 @@
+城环
+1  周家祥 SS
+2  甘雨 FF
+3  陈彬辉 RF
+4  申子杭 1B
+5  小贯久美 3B
+6  江红 P
+7  王婷 C
+8  林华希 2B
+9  杨明 LF
+10 陈易辰 CF
+
+P 朱天顺
+
+1 G.ssg
+2 2B.lfa
+3 G.sst
+4 G.pt
+
+5 E.3ba
+6 K
+7 K
+8 K
+
+9 1B.lfp
+10 BB
+1 E3B(2).ssg
+2 1B(1).cfp
+3 K
+4 1B.ffp
+5 G
+6 G
+
+7 BB
+8 1B.cg
+9 Fc.2bg
+10 G
+1 E3B(2).cfa
+2 G
+
+3 K
+4 E.2bg
+5 Fc.ssg
+6 G

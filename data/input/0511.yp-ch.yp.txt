@@ -1,0 +1,53 @@
+元培
+1 谌灼杰 SS
+2 罗佳鸣 3B
+3 张伯伦 P
+4 耿其尊 FF
+5 王奕翰 1B
+6 陈曦   LF
+7 周舒翔 2B
+8 陈宇望 RF
+9 何佩   CF
+10 王元斐 C
+
+P 江红
+
+1 1b.cfa
+2 k
+3 fo.3ba
+4 fo.lfa
+
+5 1b.3bp
+6 1b.pg
+7 k
+8 fc.3bg
+9 g.3bg
+
+10 k
+1 1b+e.lfcfa
+2 3b(1).lfa!
+3 fo.2ba
+4 e2b(1).ssg
+5 e2b(1).3bgbao
+6 k
+
+7 g.2bg
+8 g.ssg
+9 fo.2ba
+
+10 e.3bgslow
+1 fo.lfa
+2 fc.ssg
+3 g.1bg
+
+4 fo.lfa
+5 1b.3bgyx
+6 e.2bg
+7 bb
+8 e2b.1bg(1)
+9 e.pg(1)
+10 fc.pae
+
+1 fo.ffa
+2 g.1bg
+3 fo.3ba

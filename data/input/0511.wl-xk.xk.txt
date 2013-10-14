@@ -1,0 +1,63 @@
+信科
+1 李长根 SS
+2 曹昊文 1B
+3 单子非 P 
+4 高可言 CF
+5 惠宇翔 FF
+6 田仲政 3B 
+7 李马丁 LF
+8 王维侬 C 
+9 刘丽娟 RF
+10 颜聪 2B 
+
+P 孙传奎
+
+1 E2B.2bg
+2 E2B.2ba
+3 G(1).sst
+4 BB
+5 FO.ssp
+6 E(1).pt
+7 HR(3).cfa!
+8 G.pg
+
+9 G.3bt
+10 BB
+1 1B.lfa
+2 Fc.3bt
+3 E(1).lfa
+4 FO.rfp
+
+5 1B.lfa
+6 2B.cfa!
+7 E(1).lfa
+8 E.3bgyx!
+9 Fc(1).3bg
+10 BB
+1 1B(1).ssp
+2 K
+
+3 2B.cfa!
+4 G.1bt
+5 FO.pp
+6 G.ssg
+
+P 包宜骏
+
+7 2B+E.lfa
+8 BB
+9 BB
+10 FO(1).ssp
+1 Fc.3bt
+2 Fc.3bg
+
+3 FO.ssp
+4 BB
+5 2B.rfa
+6 1B(1).ffg
+7 BB
+8 1B(2).pg!
+9 BB
+10 Fc(1).ssg
+1 K
+

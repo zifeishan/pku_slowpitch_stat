@@ -1,0 +1,53 @@
+数院
+1  赵靖康 P
+2  张博 FF
+3  胡一鸣 3B
+4  王竟先 2B
+5  李超 SS
+6  潘略 CF
+7  盛开 LF
+8  吕天萌 1B
+9  刘馥晨 RF
+10 李依格 C
+
+P 江红
+1 e.3bg
+2 e.ssg
+3 2b(2).ssg
+4 2b.2bp
+5 1b.3bg
+6 k
+7 bb
+8 bb(1)
+9 bb(1)
+10 g.fangui
+
+1 1b.ssg
+2 bb
+3 1b.ssp
+4 e2b(2).rfp
+5 甩棒.sb
+6 k
+7 e(1).pg
+P 曹敏政
+8 bb
+9 bb
+10 k
+
+P 李羿
+1 bb
+2 e.1bg
+3 e.lfa
+4 fc(2)
+5 fo.cfa
+6 bb
+7 bb
+8 k
+
+9 bb
+10 g.pg
+1 bb
+2 2b(1).rfa
+3 g(1).pg
+4 bb
+5 fc.ssg

@@ -1,0 +1,49 @@
+数院
+1  盛开 LF
+2  李超 FF
+3  王竟先 2B
+4  吴朔男 SS
+5  胡一鸣 3B
+61  房东升 P 【一上换张博RF】
+6 张博 RF
+7  吕天萌 1B
+8  潘略 CF
+9  刘馥晨 RF【一下C】
+101 李依格 C 【一下何曼怡P】
+10 何曼怡
+
+P 王博
+1 1b.ssg
+2 e.3bg
+3 bb
+4 bb(1)
+5 bb(1)
+6 k
+7 e.ssg(1)
+8 k
+9 fc.pg
+
+10 g.2bg
+1 fo.ssa
+2 bb
+3 k
+
+4 bb
+5 2b.lfa(1)
+6 1b.rfg(1)
+7 e.3bg
+8 g.2bg
+9 k
+10 g.pg
+
+1 k
+2 bb
+3 e.pa
+4 g.2bg
+5 bb
+6 fo.lfa
+
+7 k.3bfk
+8 e2b.ffg
+9 fo.3ba
+10 g.2bg

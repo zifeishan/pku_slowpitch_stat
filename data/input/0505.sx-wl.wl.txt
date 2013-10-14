@@ -1,0 +1,42 @@
+物理
+1  包宜骏 2B
+2  梁辰 FF
+3  陈曦 SS
+4  周恒昀 LF
+5  林自达 3B
+6  孙传奎 CF
+7  刘炤寰 EP【四下换黄天奇EP】
+8  朱天顺 P
+9  朱一舟 1B
+10 王珞珈 RF
+11 韩傲雪 C
+72 黄天奇
+
+P 赵靖康
+
+1 k
+2 fo.ffa
+3 2b.cfg
+4 2b.rfa(1)
+5 1b.ssg
+6 fo.cfa
+
+7 g.pg
+8 1b.ssg
+9 g.2bg
+10 g.ssg
+
+11 g.pg
+1 fo.2ba
+2 1b.cfd
+3 1b.cfg
+4 2b.rfa(1)
+5 1b.cfg(2)
+6 fc.ssg
+
+72 1b+e2b.lfcfg
+8 e.ffa(1)
+9 bb
+10 fc.ssg
+11 fc.ffg
+1 g.2bg

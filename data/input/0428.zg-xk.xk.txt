@@ -1,0 +1,40 @@
+信科
+1 李长根 SS
+2 田仲政 3B
+3 单子非 P 
+4 李马丁 CF
+5 惠宇翔 LF
+6 郝逸洋 FF
+7 高可言 1B
+8 颜聪 2B
+9 刘丽娟 RF
+10 刘程玉 C  
+
+P 王鸣曦·小白
+1 BB
+2 Fc.sst
+3 BB
+4 2B(1).lfp
+5 2B(2).3bg!
+6 FO.2ba
+7 1B(1).ffd
+
+P 李文琪
+8 Fc.3bt
+
+9 G.3bt
+10 G.pt
+1 BB
+2 FO.cfa
+
+3 E.sst
+4 FO.ffa
+5 BB
+6 FO.ssa
+7 2B(1).rfayx
+8 FO.lfa
+
+9 BB
+10 K
+1 FO.ffa
+2 FO.3ba

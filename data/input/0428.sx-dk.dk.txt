@@ -1,0 +1,43 @@
+地空
+1  王博 P
+2  方鹏 3B【五上换吴飞龙3B】
+22 吴飞龙
+3  朱翀 1B
+4  李文山 SS 
+5  王梦珏 CF【四上段叠LF】
+52 段叠
+6  杨帅 RF
+7  廖曼琪 C
+8  何晨 LF【四上CF】
+9  李多 2B
+10 周艺芝 FF
+
+P 何曼怡
+1 bb
+2 g.ssg
+3 fc.ffg
+4 1b.lfd
+5 fo.ca
+
+6 1b.ffg
+7 bb
+8 bb
+9 k
+10 fo.ssa
+1 1b.lfg(1)
+
+2 fo.ffa
+3 1b.lfd
+4 1b.ffd
+5 1b.ffg(1)
+6 fo.pa
+7 k
+
+8 k
+9 k
+10 g.ssg
+
+1 fo.ssp
+22 1b.ffg
+3 1b.lfg
+4 fo.ssa

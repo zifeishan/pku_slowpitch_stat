@@ -1,0 +1,43 @@
+物理
+1  包宜骏 2B
+2  梁辰 SS
+3  孙传奎 CF
+4  刘炤寰 FF
+5  林自达 3B
+6  周恒昀 LF
+7  朱天顺 P
+8  乔颢 EP
+9  朱一舟 1B
+10 王珞珈 RF
+11 韩傲雪 C
+
+P 江红
+1 1B.2bg
+2 E.2ba
+3 FO.ffa
+4 G.1bg
+5 1B(1).3bg
+6 1B(1).ssg
+7 G.3bg
+
+8 G.1bt
+9 G.ssg
+10 G.3bg
+
+11 K
+1 E.pg
+2 E.pa
+3 K
+4 G.3bt
+
+5 G.3bt
+6 E2B.2bg
+7 FO.pa
+8 FO.1ba
+
+9 1B.lfd
+10 Fc.3bg
+11 G.3bg
+1 E.2bt
+2 E(1).ffg
+3 K

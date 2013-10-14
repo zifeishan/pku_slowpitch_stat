@@ -1,0 +1,64 @@
+法华
+1 Jason P
+2 王天 CF
+3 金镐辰 1B
+4 陈奕博 FF‘
+5 徐书帆 SS
+6 王宇博 3B
+7 刘楚芫 RF
+8 朴昶炫 LF
+9 郭文嘉
+10 欧恩双 C
+
+P 黄星辰
+
+1 ibb
+2 g
+3 e2b(1)
+4 bb
+5 g
+6 g
+
+7 g
+8 g
+9 k
+
+10 k
+1 bb
+2 1b+e
+3 bb
+4 1b(1)
+5 e(2)
+6 fc
+7 k
+
+8 k
+9 g
+10 k
+
+1 ibb
+2 e
+3 bb
+4 1b(1)
+5 e2b(2)
+6 e2b(2)
+7 bb
+8 e
+9 k
+10 dp
+
+1 ibb
+2 fo
+3 fo
+4 fo
+
+5 e
+6 g
+7 g
+8 g
+
+9 e2b
+10 k
+1 ibb
+2 fo
+3 fo

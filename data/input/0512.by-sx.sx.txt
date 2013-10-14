@@ -1,0 +1,65 @@
+数院
+1  赵靖康 P 七下换张逸昊
+2  李超 FF
+3  王竟先 2B
+4  吴朔男 SS
+5  胡一鸣 3B
+6  潘略 CF
+7  盛开 LF
+8  吕天萌 1B
+9  刘馥晨 RF
+10 李依格 C 
+12 张逸昊
+
+P 周哲民
+
+1 E.ssg
+2 1B.ssg
+3 2B(1).rfa
+4 E3B(2).ssg
+5 K
+6 FO(1).ffa
+7 BB
+8 BB
+9 E.cg
+10 K
+
+1 BB
+2 1B.lfa
+3 3B(2).lfa
+4 FO(1).lfa
+5 E.3bt
+6 Fc.2bg
+7 1B.3bg
+8 FO.lfa
+
+9 FO.lfaf
+10 FO.lfp
+1 G.3bg
+
+2 1B.ss3bg!
+3 2B.1bg
+4 BB
+5 K.lfaf
+6 FO.if
+7 Fc.ssg
+
+8 1B.ssg!
+9 Fc.pg
+10 Fc.ssg
+1 BB
+2 Fc.3bg
+
+3 1B.2bg
+4 Fc.pg
+5 Fc.ssg
+6 E.2ba
+7 1B(1).ssg
+8 BB
+9 Fc.ssg
+
+10 G.pg
+12 K.ccc
+2 BB
+3 BB
+4 2B(2).rfd
