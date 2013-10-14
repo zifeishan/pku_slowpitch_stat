@@ -3,7 +3,9 @@
 
 本程序整理了2013年北大杯全校技术统计。
 
-author: 单子非 郝逸洋
+Peking University Slowpitch Softball -- Statistic Tool for aggregating the game records!
+
+Authors: Zifei Shan, Yiyang Hao
 
 
 How to use this
